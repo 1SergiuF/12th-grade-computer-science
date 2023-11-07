@@ -1,0 +1,4 @@
+Ionel; ionel123; 15; 0
+Ioana; ioana123; 24; 0
+Marius; marius123; 9; 0
+Mihai; mihail123; 57; 0
