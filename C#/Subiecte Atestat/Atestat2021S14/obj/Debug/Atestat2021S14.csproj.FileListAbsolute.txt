@@ -1,0 +1,13 @@
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\bin\Debug\Campionat.mdf
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\bin\Debug\Campionat_log.ldf
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\bin\Debug\Atestat2021S14.exe.config
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\bin\Debug\Atestat2021S14.exe
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\bin\Debug\Atestat2021S14.pdb
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\obj\Debug\Atestat2021S14.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\obj\Debug\Atestat2021S14.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\obj\Debug\Atestat2021S14.Campionat.resources
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\obj\Debug\Atestat2021S14.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\obj\Debug\Atestat2021S14.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\obj\Debug\Atestat2021S14.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\obj\Debug\Atestat2021S14.exe
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\Atestat2021S14\obj\Debug\Atestat2021S14.pdb
