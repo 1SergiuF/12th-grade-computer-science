@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "25dMebaP+JKbnIq2VjNe1QlCTojkwRDICBpUNLMAYdU=",
+  "Source": "products_backend",
+  "BasePath": "_content/products_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

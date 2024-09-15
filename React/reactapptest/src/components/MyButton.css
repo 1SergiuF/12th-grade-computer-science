@@ -1,0 +1,45 @@
+.button {
+  background-color: white;
+  border: 5px solid pink;
+  color: black;
+  padding: 20px 70px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  display: inline-block;
+  margin: 4px 2px;
+  border-radius: 20px;
+  position: absolute;
+  top: 45%;
+  left: calc(50% - 10%);
+}
+
+.buttonRandom {
+  background-color: white;
+  border: 5px solid pink;
+  color: black;
+  padding: 20px 70px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  display: inline-block;
+  margin: 4px 2px;
+  border-radius: 20px;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+}
+
+.button:hover {
+  background-color: pink;
+  color: white;
+}
+
+.buttonRandom:hover {
+  background-color: pink;
+  color: white;
+}

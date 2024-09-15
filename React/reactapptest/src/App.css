@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  background-color: #c3829e;
+  height: 91vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: transparent;
+  border: 20px solid palevioletred;
+  margin: 20px;
+  border-style: groove;
+}
+
+.btndiv {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 99%;
+  height: 99%;
+}
+
+.dial {
+  width: 30vw;
+  height: 80vh;
+  border: violet solid 5px;
+  border-radius: 13%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.sakuraleft {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.sakuraright {
+  position: absolute;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  top: 30px;
+  right: 30px;
+}
