@@ -7,37 +7,48 @@ ofstream fout("secventauniforma.out");
 int main()
 {
 	int x;
+	int y;
 	int l = 1; // lungimea secventei
 	int lmax = 0; // lungimea maxima
 
-	int e = 0; // elementul din secventa
+	int e = 0;
 	int nr = 0;
 
-	fin >> x;
-	e = x;
-	nr = x;
+	fin >> x >> y;
 
-	while (fin >> x)
+	if (x == y)
 	{
-		if (nr == x)
-			++l;
+		++l;
+		if (lmax <= l)
+			lmax = l;
+	}
 
-		else
+	while (fin >> e)
+	{
+		if (e == y)
 		{
+			++l;
+			x = y;
+			y = e;
+
 			if (lmax <= l)
 			{
 				lmax = l;
-				e = nr;
+				nr = x;
 			}
+		}
 
-			nr = x;
+		else
+		{
 			l = 1;
+			x = y;
+			y = e;
 		}
 	}
 
 	fout << lmax << '\n';
 	while (lmax--)
-		fout << e << ' ';
+		fout << nr << ' ';
 
 	return 0;
 }
