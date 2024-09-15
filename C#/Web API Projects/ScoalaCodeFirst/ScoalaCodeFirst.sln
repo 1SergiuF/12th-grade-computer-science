@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoalaCodeFirst", "ScoalaCodeFirst.csproj", "{DAD1DA28-1A74-497D-A4EE-A35EE89CF18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD1DA28-1A74-497D-A4EE-A35EE89CF18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD1DA28-1A74-497D-A4EE-A35EE89CF18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD1DA28-1A74-497D-A4EE-A35EE89CF18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD1DA28-1A74-497D-A4EE-A35EE89CF18A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {055226A3-B366-49F5-8272-33B2DD773CE5}
+	EndGlobalSection
+EndGlobal

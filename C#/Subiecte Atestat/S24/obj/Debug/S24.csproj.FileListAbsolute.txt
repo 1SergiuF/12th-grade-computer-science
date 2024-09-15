@@ -1,0 +1,12 @@
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\bin\Debug\CinemaDB.mdf
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\bin\Debug\CinemaDB_log.ldf
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\bin\Debug\S24.exe.config
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\bin\Debug\S24.exe
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\bin\Debug\S24.pdb
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\obj\Debug\S24.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\obj\Debug\S24.Form1.resources
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\obj\Debug\S24.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\obj\Debug\S24.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\obj\Debug\S24.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\obj\Debug\S24.exe
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S24\obj\Debug\S24.pdb

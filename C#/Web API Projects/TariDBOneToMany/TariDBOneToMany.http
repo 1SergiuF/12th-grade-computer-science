@@ -1,0 +1,6 @@
+@TariDBOneToMany_HostAddress = http://localhost:5294
+
+GET {{TariDBOneToMany_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

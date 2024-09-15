@@ -1,0 +1,6 @@
+@GenshinDBCodeFirst_HostAddress = http://localhost:5115
+
+GET {{GenshinDBCodeFirst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

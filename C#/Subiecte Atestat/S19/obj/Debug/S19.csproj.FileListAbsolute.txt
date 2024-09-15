@@ -1,0 +1,12 @@
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\bin\Debug\LocatariDB.mdf
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\bin\Debug\LocatariDB_log.ldf
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\bin\Debug\S19.exe.config
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\bin\Debug\S19.exe
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\bin\Debug\S19.pdb
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\obj\Debug\S19.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\obj\Debug\S19.Form1.resources
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\obj\Debug\S19.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\obj\Debug\S19.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\obj\Debug\S19.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\obj\Debug\S19.exe
+C:\Users\sergi\OneDrive\Desktop\12th grade computer science\C#\Subiecte Atestat\S19\obj\Debug\S19.pdb
